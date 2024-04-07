@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Manuel
+- 🔭 I'm a front end developer
+- 🌱 I’m currently learning about react and node.js
+- Fun fact: i didn't upload any repository yet, lol. But these coming soon...
 <!--
 **McarrenoR/McarrenoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
