@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Manuel
 - 🔭 I'm a front end developer
-- 🌱 I’m currently learning about react and node.js
+- 🌱 I’m currently learning about react and next.js
 - 📫 How to reach me: <a href="mailto:manuelc.bussiness@gmail.com">manuelc.bussiness@gmail.com</a>
 - Fun fact: i didn't upload any repository yet, lol. But these coming soon...
 <!--
